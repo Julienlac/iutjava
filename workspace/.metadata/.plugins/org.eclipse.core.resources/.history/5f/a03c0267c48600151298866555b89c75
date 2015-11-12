@@ -33,4 +33,6 @@ public class ApplicationErrorLog extends AbstractApplicationLog {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+
 }
