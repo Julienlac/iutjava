@@ -15,4 +15,7 @@ public interface IApplicationLog {
 	void addListener(IApplicationLogListener listener);
 	
 	IApplicationLogListener[] getApplicationLogListeners();
+	
+	sqdq;
+	
 }
