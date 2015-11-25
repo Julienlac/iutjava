@@ -1,3 +1,4 @@
 activeuserprofiles=PCI117-11;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=julien.lacroix
+useridperkey=PCI117-11.Local\=julien.lacroix;
